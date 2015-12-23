@@ -1,0 +1,8 @@
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe.config
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.pdb
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csprojResolveAssemblyReference.cache
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.exe
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.pdb
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.dll
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.pdb

@@ -1,0 +1,5 @@
+c:\C# Projects\GetConnected\Shared\bin\Debug\Shared.dll
+c:\C# Projects\GetConnected\Shared\bin\Debug\Shared.pdb
+c:\C# Projects\GetConnected\Shared\obj\Debug\Shared.dll
+c:\C# Projects\GetConnected\Shared\obj\Debug\Shared.pdb
+C:\C# Projects\GetConnected\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
